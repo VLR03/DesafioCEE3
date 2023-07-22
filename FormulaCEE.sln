@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCEE.API", "FormulaCEE.API\FormulaCEE.API.csproj", "{722195DA-F37B-47D5-950A-F0FB946116EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaCEE.ServiceProcessing", "FormulaCEE.ServiceProcessing\FormulaCEE.ServiceProcessing.csproj", "{13BEA542-D9F6-4E54-8CE3-C743740E3135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722195DA-F37B-47D5-950A-F0FB946116EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722195DA-F37B-47D5-950A-F0FB946116EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722195DA-F37B-47D5-950A-F0FB946116EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722195DA-F37B-47D5-950A-F0FB946116EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BEA542-D9F6-4E54-8CE3-C743740E3135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BEA542-D9F6-4E54-8CE3-C743740E3135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BEA542-D9F6-4E54-8CE3-C743740E3135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BEA542-D9F6-4E54-8CE3-C743740E3135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\bin\Debug\net7.0\FormulaCEE.ServiceProcessing.exe
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\bin\Debug\net7.0\FormulaCEE.ServiceProcessing.deps.json
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\bin\Debug\net7.0\FormulaCEE.ServiceProcessing.runtimeconfig.json
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\bin\Debug\net7.0\FormulaCEE.ServiceProcessing.dll
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\bin\Debug\net7.0\FormulaCEE.ServiceProcessing.pdb
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.csproj.AssemblyReference.cache
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.AssemblyInfoInputs.cache
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.AssemblyInfo.cs
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.dll
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\refint\FormulaCEE.ServiceProcessing.dll
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.pdb
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.genruntimeconfig.cache
+C:\Users\Vitor\desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\ref\FormulaCEE.ServiceProcessing.dll
+C:\Users\Vitor\Desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Vitor\Desktop\DesafioCEE3\FormulaCEE.ServiceProcessing\obj\Debug\net7.0\FormulaCEE.ServiceProcessing.csproj.CopyComplete
